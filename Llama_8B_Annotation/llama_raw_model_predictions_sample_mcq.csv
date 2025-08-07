@@ -1,0 +1,21 @@
+id,domain,sentence,true_label,predicted_label,raw_model_response,correct,model,timestamp
+45,Social Media / Online,The obsession with follower counts is unsettling.,B,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+48,Social Media / Online,This hot take totally revolutionizes the discourse.,C,C,C,True,Llama-3.1-8B,2025-08-07 07:12:02
+5,Workplace / Corporate,I'm enjoying the autonomy we have on this project.,A,A,A,True,Llama-3.1-8B,2025-08-07 07:12:02
+56,Social Media / Online,I see my suggestion was acknowledged after all the replies.,D,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+27,Workplace / Corporate,Thanks for incorporating our feedback at the very last minute.,D,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+65,News / Headlines,Solar technology breakthrough could increase efficiency.,A,A,A,True,Llama-3.1-8B,2025-08-07 07:12:02
+74,News / Headlines,Survey finds declining trust in public institutions.,B,B,B,True,Llama-3.1-8B,2025-08-07 07:12:02
+11,Workplace / Corporate,We're spreading ourselves too thin with these new initiatives.,B,D,D,False,Llama-3.1-8B,2025-08-07 07:12:02
+41,Social Media / Online,I find the echo-chamber effect in these spaces disheartening.,B,D,D,False,Llama-3.1-8B,2025-08-07 07:12:02
+108,Daily Life / Personal,The quiet moments at home bring a pleasant change.,A,A,A,True,Llama-3.1-8B,2025-08-07 07:12:02
+19,Workplace / Corporate,This plan won't disrupt our workflow at all.,C,A,A,False,Llama-3.1-8B,2025-08-07 07:12:02
+63,News / Headlines,City council approves funding for mental health programs.,A,A,A,True,Llama-3.1-8B,2025-08-07 07:12:02
+12,Workplace / Corporate,"Communications have been vague, and it's affecting progress.",B,D,D,False,Llama-3.1-8B,2025-08-07 07:12:02
+37,Social Media / Online,It's nice to see someone articulate a nuanced viewpoint here.,A,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+90,News / Headlines,Glad the headline avoids mentioning the key detail until the last paragraph.,D,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+92,Customer Service,The team handled my request with unexpected thoroughness.,A,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+110,Daily Life / Personal,It's exhausting keeping up with everyone's last-minute plans.,B,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02
+1,Workplace / Corporate,The new scheduling approach seems to bring us closer as a team.,A,A,A,True,Llama-3.1-8B,2025-08-07 07:12:02
+89,News / Headlines,It's encouraging that user feedback mattered after the update rolled out.,D,A,A,False,Llama-3.1-8B,2025-08-07 07:12:02
+105,Customer Service,Glad my order status updated to 'delayed' after the delivery date passed.,D,C,C,False,Llama-3.1-8B,2025-08-07 07:12:02

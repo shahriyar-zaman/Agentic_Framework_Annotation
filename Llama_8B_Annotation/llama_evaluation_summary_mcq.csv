@@ -1,0 +1,2 @@
+Model,Dataset,Total Questions,Correct Predictions,Overall Accuracy,Timestamp,Class_A_Accuracy,Class_B_Accuracy,Class_C_Accuracy,Class_D_Accuracy
+Llama-3.1-8B,hard_120_samples.csv,120,60,0.5,2025-08-07 07:12:50,0.7666666666666667,0.36666666666666664,0.8,0.06666666666666667

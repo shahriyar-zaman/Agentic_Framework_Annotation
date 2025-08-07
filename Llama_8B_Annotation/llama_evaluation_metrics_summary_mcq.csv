@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,0.5
+Correct Predictions,60.0
+Total Questions,120.0
+Class A Accuracy,0.7666666666666667
+Class B Accuracy,0.36666666666666664
+Class C Accuracy,0.8
+Class D Accuracy,0.06666666666666667
